@@ -1,4 +1,5 @@
-:::Regional Moment Tensor Inversion (RMTI) Time-Domain:::
+    :::Regional Moment Tensor Inversion (RMTI) Time-Domain:::
+   -----------------------------------------------------------
 
 The MTINV is a collection of codes written to invert for the moment tensor of an earthquake given the three components of ground motion recorded at regional seismic stations (e.g., Ichinose et al., 2003).
 
